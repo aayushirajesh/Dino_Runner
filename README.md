@@ -30,7 +30,6 @@ A cherry blossom themed remake of the Chrome offline **Dino Game**, built with P
 * Add difficulty levels based on score  
 * Visual themes (e.g. night mode or desert)  
 * More types of enemies or power-ups  
-* Mobile or web export using Kivy or Pyodide  
 ---
 
 ## 💻 How to Run
